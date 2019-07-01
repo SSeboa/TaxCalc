@@ -1,0 +1,14 @@
+C:\Git\TaxCalculator.Service\obj\Debug\netcoreapp2.2\TaxCalculator.Service.csprojAssemblyReference.cache
+C:\Git\TaxCalculator.Service\obj\Debug\netcoreapp2.2\TaxCalculator.Service.csproj.CoreCompileInputs.cache
+C:\Git\TaxCalculator.Service\obj\Debug\netcoreapp2.2\TaxCalculator.Service.AssemblyInfoInputs.cache
+C:\Git\TaxCalculator.Service\obj\Debug\netcoreapp2.2\TaxCalculator.Service.AssemblyInfo.cs
+C:\Git\TaxCalculator.Service\bin\Debug\netcoreapp2.2\TaxCalculator.Service.deps.json
+C:\Git\TaxCalculator.Service\bin\Debug\netcoreapp2.2\TaxCalculator.Service.dll
+C:\Git\TaxCalculator.Service\bin\Debug\netcoreapp2.2\TaxCalculator.Service.pdb
+C:\Git\TaxCalculator.Service\bin\Debug\netcoreapp2.2\TaxCalculator.Data.dll
+C:\Git\TaxCalculator.Service\bin\Debug\netcoreapp2.2\TaxCalculator.Model.dll
+C:\Git\TaxCalculator.Service\bin\Debug\netcoreapp2.2\TaxCalculator.Data.pdb
+C:\Git\TaxCalculator.Service\bin\Debug\netcoreapp2.2\TaxCalculator.Model.pdb
+C:\Git\TaxCalculator.Service\obj\Debug\netcoreapp2.2\TaxCalculator.Service.csproj.CopyComplete
+C:\Git\TaxCalculator.Service\obj\Debug\netcoreapp2.2\TaxCalculator.Service.dll
+C:\Git\TaxCalculator.Service\obj\Debug\netcoreapp2.2\TaxCalculator.Service.pdb
