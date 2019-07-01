@@ -3509,11 +3509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\TaxCalculator.Service\\TaxCalculator.Service.csproj",
+      "projectUniqueName": "C:\\Git\\TaxProject\\TaxCalculator.Service\\TaxCalculator.Service.csproj",
       "projectName": "TaxCalculator.Service",
-      "projectPath": "C:\\Git\\TaxCalculator.Service\\TaxCalculator.Service.csproj",
+      "projectPath": "C:\\Git\\TaxProject\\TaxCalculator.Service\\TaxCalculator.Service.csproj",
       "packagesPath": "C:\\Users\\sseboa\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\TaxCalculator.Service\\obj\\",
+      "outputPath": "C:\\Git\\TaxProject\\TaxCalculator.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -3534,8 +3534,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Git\\TaxCalculator.Data\\TaxCalculator.Data.csproj": {
-              "projectPath": "C:\\Git\\TaxCalculator.Data\\TaxCalculator.Data.csproj"
+            "C:\\Git\\TaxProject\\TaxCalculator.Data\\TaxCalculator.Data.csproj": {
+              "projectPath": "C:\\Git\\TaxProject\\TaxCalculator.Data\\TaxCalculator.Data.csproj"
             }
           }
         }

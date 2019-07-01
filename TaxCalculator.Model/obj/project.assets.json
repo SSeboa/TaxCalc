@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\TaxCalculator.Model\\TaxCalculator.Model.csproj",
+      "projectUniqueName": "C:\\Git\\TaxProject\\TaxCalculator.Model\\TaxCalculator.Model.csproj",
       "projectName": "TaxCalculator.Model",
-      "projectPath": "C:\\Git\\TaxCalculator.Model\\TaxCalculator.Model.csproj",
+      "projectPath": "C:\\Git\\TaxProject\\TaxCalculator.Model\\TaxCalculator.Model.csproj",
       "packagesPath": "C:\\Users\\sseboa\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\TaxCalculator.Model\\obj\\",
+      "outputPath": "C:\\Git\\TaxProject\\TaxCalculator.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
